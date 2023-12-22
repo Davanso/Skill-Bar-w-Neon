@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Neon Skill Bar]
   - [HTML + CSS + BACKGROUND]
-  - [Portifolio]
+  - [Portfolio]
 
 ## About the Project
 
